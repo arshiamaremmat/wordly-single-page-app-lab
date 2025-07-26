@@ -1,0 +1,11 @@
+{
+  "name": "pc",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Arshia Maremmat"
+}
